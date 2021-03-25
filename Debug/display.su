@@ -1,0 +1,8 @@
+display.c:20:6:init_SSD	8	static
+display.c:60:6:display_SSD	8	static
+display.c:118:6:printDigit_SSD	16	static
+display.c:371:6:displaychar_SSD	16	static
+display.c:480:6:displayID_SSD	8	static
+display.c:489:6:overflow_SSD	8	static
+display.c:501:6:invalid_SSD	8	static
+display.c:513:6:utility_SSD	40	static

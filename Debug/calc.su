@@ -1,0 +1,16 @@
+calc.c:36:6:calculate	8	static
+calc.c:41:6:nonefunc	8	static
+calc.c:44:6:AdditonFunc	16	static
+calc.c:54:6:SubstractionFunc	16	static
+calc.c:63:6:MultiplacationFunc	24	static
+calc.c:71:6:DivisionFunc	8	static
+calc.c:80:6:Efunc	8	static
+calc.c:82:6:logFunc	16	static
+calc.c:90:6:LnFunc	16	static
+calc.c:98:6:SqrtFunc	16	static
+calc.c:108:6:Pow2Func	16	static
+calc.c:112:6:EEFunc	8	static
+calc.c:114:6:SinFunc	24	static
+calc.c:118:6:CosFunc	24	static
+calc.c:122:6:TanFunc	24	static
+calc.c:131:6:CotFunc	24	static

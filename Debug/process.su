@@ -1,0 +1,16 @@
+process.c:29:6:calculate	8	static
+process.c:33:6:AdditonFunc	16	static
+process.c:43:6:SubstractionFunc	16	static
+process.c:52:6:MultiplacationFunc	24	static
+process.c:60:6:DivisionFunc	8	static
+process.c:68:6:Efunc	8	static
+process.c:70:6:logFunc	16	static
+process.c:78:6:LnFunc	16	static
+process.c:86:6:SqrtFunc	16	static
+process.c:95:6:Pow2Func	16	static
+process.c:98:6:EEFunc	8	static
+process.c:100:6:SinFunc	24	static
+process.c:104:6:CosFunc	24	static
+process.c:108:6:TanFunc	24	static
+process.c:117:6:CotFunc	24	static
+process.c:125:6:nonefunc	8	static
